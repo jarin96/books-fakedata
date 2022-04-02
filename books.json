@@ -1,0 +1,32 @@
+[
+    {
+        "id": 1,
+        "name": "To Kill a Mockingbird",
+        "price": 150,
+        "img": "https://cdn.britannica.com/21/182021-050-666DB6B1/book-cover-To-Kill-a-Mockingbird-many-1961.jpg?q=60"
+    },
+    {
+        "id": 2,
+        "name": "Don Quixote",
+        "price": 120,
+        "img": "https://cdn.britannica.com/12/154812-050-D4E47005/Don-Quixote-Sancho-Panza-illustration-Miguel-de.jpg?q=60"
+    },
+    {
+        "id": 3,
+        "name": "Jane Eyre",
+        "price": 120,
+        "img": "https://cdn.britannica.com/94/98994-050-2E304987/Illustration-edition-Fritz-Eichenberg-American-Jane-Eyre.jpg?q=60"
+    },
+    {
+        "id": 4,
+        "name": "The Lion, the Witch, and the Wardrobe",
+        "price": 130,
+        "img": "https://orion-uploads.openroadmedia.com/sm_c19ae1-the-lion-the-witch-and-the-wardrobe-book.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Pinocchio",
+        "price": 100,
+        "img": "https://book-assets.openroadmedia.com/9781497679276.jpg"
+    }
+]
